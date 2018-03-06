@@ -50,7 +50,7 @@
       background-color: transparent;
 
       &.is-current-link {
-        color: $mainOrange;
+        color: #fabb69;
       }
     }
   }
